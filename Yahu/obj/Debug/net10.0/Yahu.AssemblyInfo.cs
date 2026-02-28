@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yahu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18fcbd470bd5b304a0fcf02a6d392ebd0b8766bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yahu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yahu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
